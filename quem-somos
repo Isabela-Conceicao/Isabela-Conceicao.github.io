@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESCOLA DE EQUITACAO</title>
+</head>
+<body style="background-color:rgb(229, 238, 240);">
+    <table border="0" width="900" align="center">
+        
+        <tr>
+            <td ><img src="Imagens/logo teste.png" width="150" height="100"> </td>
+            <td align="right">
+                <a href="index.html">Home</a> |
+                <a href="quem-somos.html">Quem somos</a> |
+                <a href="contato.html">Contato</a> 
+            </td>
+        </tr>
+        
+        <tr>
+            <td colspan="2">
+                <h3 style="font-family:Times New Roman;">VISÃO</h3>
+                <p style="font-family:Times New Roman;">
+                 Equilibrio, Harmonia, Cumplicidade, União são só alguns termos que podem ser citados sobre a relação Homem Cavalo. Um cavalo sabe o que está acontecendo com seu humano muito antes de qualquer outro ser.<br>
+                 Nossa visão é fazer com que Ginetes e Equinos se entendam, se respeitem e consigam alcançar seus objetivos almejados, montando sempre com leveza, inteligência e cultura equestre internacional. Através das linhas de trabalho que adotamos, pretendemos criar uma cultura equestre que atinja todos do meio e seja revolucionária, formando conjuntos cada dia mais fortes, impressionantes, felizes e vitoriosos em seus esportes e objetivos principais.
+                </p>                                 
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
